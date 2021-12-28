@@ -8,5 +8,5 @@
   Input Format :- integers seperated by spaces , -1 to represent free space
   
 ### Execution.
-  use any cpp compiler to execute the file
+  Use any cpp compiler to execute the file
 
