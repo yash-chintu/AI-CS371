@@ -1,6 +1,6 @@
 # [AI-CS371](https://github.com/yash-chintu/AI-CS371)
 
-contains CS371 assignment solutions
+**Contains CS371 assignment solutions
 
 ## [1. Eight Puzzle Problem](https://github.com/yash-chintu/AI-CS371/tree/main/EightPuzzleProblem)
 
